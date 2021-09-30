@@ -1,6 +1,6 @@
 #include "led.h"
 
-/* Инициализация LED  */
+/* РРЅРёС†РёР°Р»РёР·Р°С†РёСЏ LED  */
 void led_init(void)
 {
     STM_EVAL_LEDInit(0);
